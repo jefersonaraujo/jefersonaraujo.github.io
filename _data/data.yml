@@ -79,6 +79,10 @@ projects:
         link: "#"
         tagline: "A responsive website template designed for a company's legacy system. CRUD operations and asset reporting."
 
+      - title: Zimbra
+        link: "#"
+        tagline: "Responsible for the migration and division of e-mail servers, from several clients."
+
       - title: GLPI
         link: "#"
         tagline: "Implementation and integration of a helpdesk tool, including control and integration with ZABBIX, inventory and Knowledge Base in a support team."
@@ -87,51 +91,64 @@ projects:
         link: "#"
         tagline: "Implementation of an open source business intelligence tool, data collection and creation of reports and dashboard for presentation on TV's."
 
-      - title: Delta
+      - title: Portainer| Rancher
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Implementation of a container management tool, aiming the optimization of resources and expansion of services."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      - title: Rundeck
+        link: "#"
+        tagline: "Deployment of management tool and automation of tasks and scripts."
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#
+#     papers:
+#       - title: The Art of Computer Programming
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
+#
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#       - title: A syntax directed compiler for Algol 60
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Zimbra
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Mikrotik
+        level: 89%
+
+      - name: Pentaho
+        level: 65%
+
+      - name: BD
+        level: 70%
+
+      - name: Logic (programming)
+        level: 85%
+
+      - name: XenServer
+        level: 80%
+
+      - name: Zabbix
+        level: 85%
+
+      - name: Network Operations
+        level: 79%
+
+      - name: Shell Script
+        level: 88%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
