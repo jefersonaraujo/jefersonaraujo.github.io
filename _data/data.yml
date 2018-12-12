@@ -7,11 +7,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-<<<<<<< HEAD
-    name: Jeferson Araujo
-=======
     name: Jeferson
->>>>>>> aecbeed30f27a2caa3a27cbefe740ad001d9992a
+
     tagline: Analista de T.I
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -29,72 +26,43 @@ sidebar:
         level: Tecnico
 
     interests:
-      - item: Climbing
+      - item: OpenSource
         link:
 
-      - item: Snowboarding
+      - item: Programming
         link:
 
-      - item: Cooking
+      - item: Information security
+        link:
+
+      - item: Computer Network
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Desenvolver minhas atividades profissionais com responsabilidade, contribuindo assim
-      para o crescimento da empresa, comunicativo, facilidade em assimilar tarefas e disposto a
-      vivenciar novos desafios e experiências.
-
-      Cursando Bacharelado em Sistemas de Informação - Uni7
-
-      Área de Interesse e Conhecimentos: -Desenvolvimento Desktop e Mobile - Administração Linux - Arquitetura de Servidores - Zabbix - Conectividade - Business Intelligence - Software Open Source
-
+      To develop my professional activities with responsibility,
+      thus contributing to the growth of the company, communicative, ease in assimilating tasks and willing to experience new challenges and experiences.
 
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+    - degree: BSc in Information Systems
+      university: Centro Universitário 7 de Setembro
+      time: 2019
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Analyst at I.T
+      time: 2014 - Present
+      company: Fortalnet, Fortaleza-Brazil
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        T.I routines, servers and service routes, maintenance on the ZABBIX monitoring system, linux server administration and virtualization, ZIMBRA email administration, scripting (Shell Script)
 
-          - Bullet point
-          - Bullet point
+          - XenServer
+          - ZABBIX
+          - Petanho (B.I)
+          - NOC
+          - ZIMBRA
+          - Docker
 
     - role: Senior Software Engineer
       time: 2014 - 2015
