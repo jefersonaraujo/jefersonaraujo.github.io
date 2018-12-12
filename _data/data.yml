@@ -59,60 +59,33 @@ experiences:
 
           - XenServer
           - ZABBIX
-          - Petanho (B.I)
+          - Pentaho (B.I)
           - NOC
           - ZIMBRA
           - Docker
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Area of Interest and Knowledge: - Desktop and Mobile Development - Linux Administration - Server Architecture - Zabbix - Connectivity - Business Intelligence - Open Source Software. Some projects implemented.
 
     assignments:
-      - title: Velocity
+      - title: Velocimentro
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A responsive website template designed to help users test bandwidth speed."
 
-      - title: DevStudio
+      - title: SysIntra
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A responsive website template designed for a company's legacy system. CRUD operations and asset reporting."
 
-      - title: Tempo
+      - title: GLPI
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Implementation and integration of a helpdesk tool, including control and integration with ZABBIX, inventory and Knowledge Base in a support team."
 
-      - title: Atom
+      - title: Pentaho
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Implementation of an open source business intelligence tool, data collection and creation of reports and dashboard for presentation on TV's."
 
       - title: Delta
         link: "#"
