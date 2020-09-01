@@ -51,6 +51,19 @@ education:
       time: 2019
 
 experiences:
+      - role: Monitro analyst
+        time: 2020 - Present
+        company: PolibrasNet, Aquiraz-Brazil
+        details: |
+          Acting in the monitoring of infrastructure and webapps, creating metrics and related alerts. Customizing new Templates and assisting in other inherent activities.
+
+            - Zabbix
+            - Windows Server
+            - Linux
+            - Azure
+            - Nginx
+            - Kibana 
+
     - role: Analyst at I.T
       time: 2014 - 2019
       company: Fortalnet, Fortaleza-Brazil
