@@ -120,13 +120,9 @@ projects:
         link: "https://www.youracclaim.com/badges/e6ca345e-8e74-49f0-9d5d-429185de6149"
         tagline: "Scrum Foundation Professional Certificate"
 
-      - title: Portainer| Rancher
-        link: "#"
-        tagline: "Implementation of a container management tool, aiming the optimization of resources and expansion of services."
-
-      - title: Rundeck
-        link: "#"
-        tagline: "Deployment of management tool and automation of tasks and scripts."
+      - title: DEPC
+        link: "https://www.youracclaim.com/badges/fc21304b-751e-49b1-bdaf-e6c81ec58a52"
+        tagline: "DevOps Essentials Professional Certificate - DEPC"
 
 # publications:
 #     title: Publications
