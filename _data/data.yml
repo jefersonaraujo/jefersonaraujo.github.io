@@ -53,7 +53,7 @@ education:
 experiences:
       - role: Monitro analyst
         time: 2020 - Present
-        company: PolibrasNet, Aquiraz-Brazil
+        company: Fortbrasil, Fortaleza-Brazil
         details: |
           Acting in the monitoring of infrastructure and webapps, creating metrics and related alerts. Customizing new Templates and assisting in other inherent activities.
 
@@ -62,7 +62,7 @@ experiences:
             - Linux
             - Azure
             - Nginx
-            - Kibana 
+            - Kibana
 
     - role: Analyst at I.T
       time: 2014 - 2019
@@ -148,17 +148,27 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Zimbra
+
+      - name: Cloud Computer
         level: 85%
+
+      - name: Azure
+        level: 70%
+
+      - name: Linux
+        level: 85%
+
+      - name: Windows
+        level: 65%
 
       - name: Mikrotik
         level: 89%
 
       - name: Pentaho
-        level: 65%
+        level: 45%
 
-      - name: BD
-        level: 70%
+      - name: DB
+        level: 60%
 
       - name: Logic (programming)
         level: 85%
