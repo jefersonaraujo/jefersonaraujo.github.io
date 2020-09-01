@@ -52,7 +52,7 @@ education:
 
 experiences:
     - role: Analyst at I.T
-      time: 2014 - Present
+      time: 2014 - 2019
       company: Fortalnet, Fortaleza-Brazil
       details: |
         T.I routines, servers and service routes, maintenance on the ZABBIX monitoring system, linux server administration and virtualization, ZIMBRA email administration, scripting (Shell Script)
@@ -63,7 +63,19 @@ experiences:
           - NOC
           - ZIMBRA
           - Docker
+          
+    - role: Analyst at I.T
+      time: 2014 - 2019
+      company: Fortalnet, Fortaleza-Brazil
+      details: |
+        T.I routines, servers and service routes, maintenance on the ZABBIX monitoring system, linux server administration and virtualization, ZIMBRA email administration, scripting (Shell Script)
 
+          - XenServer
+          - ZABBIX
+          - Pentaho (B.I)
+          - NOC
+          - ZIMBRA
+          - Docker
 
 projects:
     title: Projects
