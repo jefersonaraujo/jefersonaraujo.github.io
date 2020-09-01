@@ -97,7 +97,7 @@ experiences:
 projects:
     title: Certifications
     intro: >
-      Some certifications obtained and soon in the future Microsoft MTA Database and LPIC-1 linux s2.
+      Some certifications obtained and soon in the future Microsoft MTA Database and LPIC-1 linux<i class="fas fa-heart"></i> s2.
 
     assignments:
       - title: AZ-900
