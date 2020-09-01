@@ -51,9 +51,9 @@ education:
       time: 2019
 
 experiences:
-    - role: Analyst at I.T
-      time: 2014 - 2019
-      company: Fortalnet, Fortaleza-Brazil
+    - role: Monitoring analyst
+      time: 2020 - Present
+      company: Fortbrasil, Fortaleza-Brazil
       details: |
         T.I routines, servers and service routes, maintenance on the ZABBIX monitoring system, linux server administration and virtualization, ZIMBRA email administration, scripting (Shell Script)
 
@@ -63,7 +63,7 @@ experiences:
           - NOC
           - ZIMBRA
           - Docker
-          
+
     - role: Analyst at I.T
       time: 2014 - 2019
       company: Fortalnet, Fortaleza-Brazil
