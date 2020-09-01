@@ -57,12 +57,13 @@ experiences:
       details: |
         Acting in the monitoring of infrastructure and webapps, creating metrics and related alerts. Customizing new Templates and assisting in other inherent activities.
 
-          - XenServer
-          - ZABBIX
-          - Pentaho (B.I)
-          - NOC
-          - ZIMBRA
+          - Zabbix
+          - Windows Server
+          - Linux
+          - Azure
+          - Grafana
           - Docker
+          - Kibana
 
     - role: Analyst at I.T
       time: 2014 - 2019
