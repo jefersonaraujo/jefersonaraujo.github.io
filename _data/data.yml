@@ -112,13 +112,13 @@ projects:
         link: "https://drive.google.com/file/d/1ogUTF_ydhlt8Z2GtGF5UlXyQkB3SMdtS/view"
         tagline: "Certificate NSE 2 Network Security Associate"
 
-      - title: GLPI
-        link: "#"
-        tagline: "Implementation and integration of a helpdesk tool, including control and integration with ZABBIX, inventory and Knowledge Base in a support team."
+      - title: NSE-1
+        link: "https://drive.google.com/file/d/1Q1lSpcQE9l8UTMjxGoIZQXIcQ_4UeayQ/view"
+        tagline: "Certificate NSE 1 Network Security Associate"
 
-      - title: Pentaho
-        link: "#"
-        tagline: "Implementation of an open source business intelligence tool, data collection and creation of reports and dashboard for presentation on TV's."
+      - title: SFPC
+        link: "https://www.youracclaim.com/badges/e6ca345e-8e74-49f0-9d5d-429185de6149"
+        tagline: "Scrum Foundation Professional Certificate"
 
       - title: Portainer| Rancher
         link: "#"
