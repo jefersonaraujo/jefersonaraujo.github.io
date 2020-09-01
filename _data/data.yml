@@ -101,12 +101,12 @@ projects:
 
     assignments:
       - title: AZ-900
-        link: "https://www.youracclaim.com/badges/d18f202b-62b7-4035-a4b1-d0edb320f3f1"
+        link: "https://www.youracclaim.com/badges/e1dd49f1-186f-40dc-974a-b3d93a446c9b"
         tagline: "Microsoft Certified: Azure Fundamentals"
 
-      - title: SysIntra
-        link: "#"
-        tagline: "A responsive website template designed for a company's legacy system. CRUD operations and asset reporting."
+      - title: AZ-104
+        link: "https://www.youracclaim.com/badges/d18f202b-62b7-4035-a4b1-d0edb320f3f1"
+        tagline: "Microsoft Certified: Azure Administrator Associate"
 
       - title: Zimbra
         link: "#"
