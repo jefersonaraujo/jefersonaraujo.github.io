@@ -63,7 +63,19 @@ experiences:
             - Azure
             - Nginx
             - Kibana
+    - role: Support analyst
+      time: 2019 - 2020
+      company: PolibrasNet, Aquiraz-Brazil
+      details: |
+        Analyze and create queries in the most different types of databases: SqlServer, Postgresql, Oracle, Firebird. Analysis of functionalities of sales force system and ERPs.
 
+          - SqlServer
+          - Postgresql
+          - Oracle
+          - Sqlite
+          - Linux
+          - NCReport
+          
     - role: Analyst at I.T
       time: 2014 - 2019
       company: Fortalnet, Fortaleza-Brazil
@@ -77,18 +89,7 @@ experiences:
           - ZIMBRA
           - Docker
 
-    - role: Support analyst
-      time: 2019 - 2020
-      company: PolibrasNet, Aquiraz-Brazil
-      details: |
-        Analyze and create queries in the most different types of databases: SqlServer, Postgresql, Oracle, Firebird. Analysis of functionalities of sales force system and ERPs.
 
-          - SqlServer
-          - Postgresql
-          - Oracle
-          - Sqlite
-          - Linux
-          - NCReport
 
 projects:
     title: Projects
