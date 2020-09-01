@@ -100,9 +100,9 @@ projects:
       Some certifications obtained and soon in the future Microsoft MTA Database and LPIC-1 linux s2.
 
     assignments:
-      - title: Microsoft Certified: Azure Fundamentals
-        link: "https://www.youracclaim.com/badges/e1dd49f1-186f-40dc-974a-b3d93a446c9b/public_url"
-        tagline: "Cloud Computer"
+      - title: Velocimentro
+        link: "#hook"
+        tagline: "A responsive website template designed to help users test bandwidth speed."
 
       - title: SysIntra
         link: "#"
