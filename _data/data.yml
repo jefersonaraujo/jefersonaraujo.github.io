@@ -100,9 +100,9 @@ projects:
       Some certifications obtained and soon in the future Microsoft MTA Database and LPIC-1 linux s2.
 
     assignments:
-      - title: Microsoft Certified: Azure Fundamentals
+      - title: AZ-900
         link: "https://www.youracclaim.com/badges/d18f202b-62b7-4035-a4b1-d0edb320f3f1"
-        tagline: "A responsive website template designed to help users test bandwidth speed."
+        tagline: "Microsoft Certified: Azure Fundamentals"
 
       - title: SysIntra
         link: "#"
