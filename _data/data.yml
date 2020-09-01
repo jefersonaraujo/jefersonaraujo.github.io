@@ -51,31 +51,6 @@ education:
       time: 2019
 
 experiences:
-      - role: Monitro analyst
-        time: 2020 - Present
-        company: Fortbrasil, Fortaleza-Brazil
-        details: |
-          Acting in the monitoring of infrastructure and webapps, creating metrics and related alerts. Customizing new Templates and assisting in other inherent activities.
-
-            - Zabbix
-            - Windows Server
-            - Linux
-            - Azure
-            - Nginx
-            - Kibana
-    - role: Support analyst
-      time: 2019 - 2020
-      company: PolibrasNet, Aquiraz-Brazil
-      details: |
-        Analyze and create queries in the most different types of databases: SqlServer, Postgresql, Oracle, Firebird. Analysis of functionalities of sales force system and ERPs.
-
-          - SqlServer
-          - Postgresql
-          - Oracle
-          - Sqlite
-          - Linux
-          - NCReport
-          
     - role: Analyst at I.T
       time: 2014 - 2019
       company: Fortalnet, Fortaleza-Brazil
