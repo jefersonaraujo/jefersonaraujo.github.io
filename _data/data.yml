@@ -64,6 +64,7 @@ experiences:
           - Grafana
           - Docker
           - Kibana
+          - GitLab
 
     - role: Analyst at I.T
       time: 2014 - 2019
