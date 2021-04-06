@@ -49,6 +49,10 @@ education:
     - degree: BSc in Information Systems
       university: Centro Universitário 7 de Setembro
       time: 2019
+ education:
+    - degree: DevOps
+      university: Alura
+      time: 2021     
 
 experiences:
     - role: Monitoring analyst PL
