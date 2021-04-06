@@ -65,6 +65,7 @@ experiences:
           - Docker
           - Kibana
           - GitLab
+          - Rundeck
 
     - role: Analyst at I.T
       time: 2014 - 2019
